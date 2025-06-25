@@ -51,7 +51,7 @@ linear-regression-pytorch/
 
 1. Clone the repository:
     bash
-    git clone https://github.com/your-username/linear-regression-pytorch.git
+    git clone https://github.com/PrathameshDeshpande99/linear-regression-pytorch.git
     cd linear-regression-pytorch
 
 2. Install required libraries:
