@@ -37,14 +37,14 @@ And training/test loss over epochs:
 ---
 
 ## 📁 Project Structure
-<pre>'''
+<pre>
 linear-regression-pytorch/
     ├── First_ML_LR_model.py # Main PyTorch code
     ├── README.md # Project overview
     └── assets/
         ├── prediction_plot.png # Model predictions
         └── loss_curve.png # Loss graph
-'''</pre>
+</pre>
 ---
 
 ## 🚀 How to Run
